@@ -2,10 +2,8 @@
 
 <div align="center">
   
-  **Desenvolvedor Web Full Stack**
-  
-  🚀 Apaixonado por técnologia 🚀
-  
+ 🚀 **Desenvolvedor Web** 🚀
+ 
   👀 **Aberto a oportunidades** 👀
   
 </div>
@@ -14,7 +12,7 @@
 
 ## 💻 Sobre Mim
 
-Desenvolvedor web com foco atualmente em front-end. Ampliando minha experiência em desenvolvimento com projetos que me desafiem. Sempre buscando aprender novas tecnologias e aplicar as melhores práticas de desenvolvimento.
+Busco ampliar minha experiência em desenvolvimento com projetos que me desafiem. Sempre buscando aprender novas tecnologias e aplicar as melhores práticas de desenvolvimento.
 
 ---
 
@@ -27,6 +25,8 @@ Desenvolvedor web com foco atualmente em front-end. Ampliando minha experiência
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511f2.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ### Back-end
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -44,6 +44,7 @@ Desenvolvedor web com foco atualmente em front-end. Ampliando minha experiência
 ## 📚 Atualmente Estudando
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 Estou constantemente expandindo meus conhecimentos e explorando novas tecnologias para me tornar um desenvolvedor mais completo.
 
